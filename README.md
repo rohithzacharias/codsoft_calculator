@@ -1,4 +1,4 @@
-# codsoft_calculator# 🧮 Scientific Calculator using Python and CustomTkinter
+# Calculator using Python and CustomTkinter
 
 This project is a modern **Scientific Calculator** built using **Python** with a sleek **CustomTkinter GUI**. It combines standard and advanced mathematical operations in a user-friendly interface, supporting both basic arithmetic and scientific functions like trigonometry, logarithms, powers, and factorials.
 
